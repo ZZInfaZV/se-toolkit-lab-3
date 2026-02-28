@@ -28,7 +28,7 @@ TODO questions about what their specific request is
 
 ### POST /items
 
-1. HTTP method: 422
+1. HTTP method: POST
 2. Status code (created successfully): 201
 
 ### PUT /items/{item_id}
